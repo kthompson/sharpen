@@ -1,4 +1,4 @@
-# Sharpen - Automated Java->C# coversion
+# Sharpen - Automated Java->C# conversion
 
 [imazen/sharpen](https://github.com/imazen/sharpen) [![master](https://img.shields.io/travis/imazen/sharpen/master.svg?label=imazen%20master)](https://travis-ci.org/imazen/sharpen/builds)[![imazen master - AppVeyor](https://ci.appveyor.com/api/projects/status/qxrbmyx70iuoev0x/branch/master?svg=true&passingText=imazen%20master%20-%20passing&failingText=imazen%20master%20-%20failed)](https://ci.appveyor.com/project/imazen/sharpen/branch/master) [![develop](https://img.shields.io/travis/imazen/sharpen/develop.svg?label=imazen%20develop)](https://travis-ci.org/imazen/sharpen/builds)
 [![imazen develop - AppVeyor](https://ci.appveyor.com/api/projects/status/qxrbmyx70iuoev0x/branch/develop?svg=true&passingText=imazen%20develop%20-%20passing&failingText=imazen%20develop%20-%20failed)](https://ci.appveyor.com/project/imazen/sharpen/branch/develop)
